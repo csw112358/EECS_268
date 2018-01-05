@@ -1,0 +1,28 @@
+implementations
+  Node.h
+  BinarySearchTree.h
+  Pokemon.h
+  Executive.h
+  Traversal.h
+  main.cpp
+  Exception.h
+
+Node.h
+  T value;
+
+
+template< typename NodeItem>
+class BinaryNode
+{
+private:
+  NodeItem item;
+  Node<NodeItem>* leftChildPtr;
+  Node<NodeItem>* rightChildPtr;
+
+public:
+  //getters and setters
+
+}
+
+reuse pokemon.h from previous lab but need to update class and add functions needed for this lab
+she mentioned something about overloading operators
