@@ -1,0 +1,6 @@
+Kansas City, 1125000, 4
+
+Lawrence, 85483, 4
+
+Smallville, 12, 4
+
